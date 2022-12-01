@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OMKAR H PATIL</h1>
-<h3 align="center">HARDWARE LOVER</h3>
+<h3 align="center">HARDWARE , ARDUINO LOVER </h3>
 <img align="right" alt="annoying like this" src="https://media.tenor.com/Hv3q90qIHZEAAAAM/meslina-range.gif">
 
 - 🔭 I’m currently working on **Android developnment**
