@@ -2,15 +2,8 @@
 <h3 align="center">HARDWARE , ARDUINO LOVER </h3>
 <img align="right" alt="annoying like this" src="https://media.tenor.com/Hv3q90qIHZEAAAAM/meslina-range.gif">
 
-- 🔭 I’m currently working on **Android developnment**
-
-- 👯 I’m current in collaboration **accident car detection**
-
-- 🤝 I’m looking for help with **software developer**
-
 - 📫 How to reach me **fs20if066ogmail.com**
 
-- ⚡ Fun fact **I am Annoying and shy less guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
