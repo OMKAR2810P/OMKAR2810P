@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OMKAR H PATIL</h1>
-<h3 align="center">HARDWARE , ARDUINO LOVER </h3>
+<h3 align="center">HARDWARE , COMPUTER EXPERT </h3>
 <img align="right" alt="annoying like this" src="https://github.com/user-attachments/assets/76a9445b-2363-429f-b0a7-3513ac18f010">
 
 - 📫 How to reach me **fs20if066ogmail.com**
